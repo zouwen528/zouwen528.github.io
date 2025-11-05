@@ -5,7 +5,7 @@
   "private": true,
   "description": "个人网页",
   "packageManager": "pnpm@8.15.9",
-  "author": "287148193@qq.com",
+  "author": "2871481934@qq.com",
   "license": "",
   "scripts": {
     "docs:build": "vuepress build docs --clean-cache --clean-temp",
